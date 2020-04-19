@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b9299708-6782-4edf-9832-ca955bec0dce/resourceGroups/Itdev/providers/Microsoft.Web/sites/gileaditdev",
+    "appService.deploySubpath": ""
+}
