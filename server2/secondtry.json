@@ -1,0 +1,432 @@
+{
+    "preview": false,
+    "id": "gbnG-lWdo",
+    "url": "images/gbnG-lWdo.jpg",
+    "thumbUrl": "images/thumb-gbnG-lWdo.jpg",
+    "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gzeN2b6b7WfLearningCenterEntryJPGjpg",
+    "title": "Learning Center Entry",
+    "blob": {
+        "preview": "blob:https://app.cloudpano.com/401a1ee2-65e9-450b-85bd-53bc435794e0"
+    },
+    "uploaded": true,
+    "size": 6878371,
+    "dateUploaded": "2020-03-17T19:15:54.804Z",
+    "dateModified": "2020-02-07T00:56:58.000Z",
+    "linksToHere": false,
+    "links": [
+        "Hb6RNdyPx",
+        "EIWD57QiO",
+        "wKEhqyn4K"
+    ],
+    "cameraPosition": {
+        "x": 0.8916147059319116,
+        "y": 6.123233995736766e-17,
+        "z": -0.45279489414739515
+    },
+    "hotspots": [
+        {
+            "id": "jJEM0ohek",
+            "coords": {
+                "x": 4606.16,
+                "y": 484.89,
+                "z": 1860.08
+            },
+            "style": 2,
+            "rotation": 320,
+            "image": {
+                "id": "YlW2dxliSb",
+                "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gCpnUJ5cQr7LearningCenterEntranceJPGjpg",
+                "title": "Learning Center Entrance",
+                "links": [
+                    "_z4ewCFfN",
+                    "QTqJWcpJL",
+                    "hGxELEcNI",
+                    "jJEM0ohek"
+                ],
+                "url": ""
+            }
+        }
+    ],
+    "hotspot": "images/hotspot-gbnG-lWdo.png"
+},
+{
+    "preview": false,
+    "id": "YlW2dxliSb",
+    "url": "images/YlW2dxliSb.jpg",
+    "thumbUrl": "images/thumb-YlW2dxliSb.jpg",
+    "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gCpnUJ5cQr7LearningCenterEntranceJPGjpg",
+    "title": "Learning Center Entrance",
+    "blob": {
+        "preview": "blob:https://app.cloudpano.com/d9b6d0b6-cf04-4581-98dd-50ecbe8692ac"
+    },
+    "uploaded": true,
+    "size": 6574967,
+    "dateUploaded": "2020-03-17T19:15:54.805Z",
+    "dateModified": "2020-02-07T00:55:37.000Z",
+    "linksToHere": false,
+    "hotspots": [
+        {
+            "id": "R55Onv8aW",
+            "coords": {
+                "x": 4600.68,
+                "y": 1874.44,
+                "z": 533.06
+            },
+            "style": 2,
+            "rotation": "0",
+            "image": {
+                "id": "Ezi3JVZuc2",
+                "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gb9nHEWUvcYBldg333LakesideJPGjpg",
+                "title": "Bldg 333 Lakeside",
+                "links": [
+                    "R55Onv8aW"
+                ],
+                "url": ""
+            }
+        },
+        {
+            "id": "Hb6RNdyPx",
+            "coords": {
+                "x": 4297.8,
+                "y": 1297.12,
+                "z": 2178.99
+            },
+            "style": 2,
+            "rotation": 45,
+            "image": {
+                "id": "gbnG-lWdo",
+                "hotspotUrl": "/public/hotspot-icon-white.png",
+                "title": "Learning Center Entry",
+                "links": [
+                    "Hb6RNdyPx"
+                ],
+                "url": ""
+            }
+        },
+        {
+            "id": "jm1yC7Ln-",
+            "coords": {
+                "x": 4557.08,
+                "y": 1498.51,
+                "z": -1391.23
+            },
+            "style": 2,
+            "rotation": 320,
+            "image": {
+                "id": "7iQCb1iiJC",
+                "hotspotUrl": "/public/hotspot-icon-white.png",
+                "title": "309 10th Floor 2",
+                "links": [
+                    "jm1yC7Ln-"
+                ],
+                "url": ""
+            }
+        },
+        {
+            "id": "DmOdkL90D",
+            "coords": {
+                "x": 4947.96,
+                "y": 361.99,
+                "z": 587.49
+            },
+            "style": 2,
+            "rotation": 320,
+            "image": {
+                "id": "4O-oN2kCAk",
+                "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gSyHbyJEmKG309ReceptionJPGjpg",
+                "title": "309 Reception",
+                "links": [
+                    "DmOdkL90D"
+                ],
+                "url": ""
+            }
+        }
+    ],
+    "cameraPosition": {
+        "x": 0.9991770902114789,
+        "y": -0.016110529547356,
+        "z": -0.037223557517059046
+    },
+    "links": [
+        "_z4ewCFfN",
+        "QTqJWcpJL",
+        "hGxELEcNI",
+        "jJEM0ohek",
+        "rLurYM0i2-"
+    ],
+    "hotspot": "images/hotspot-YlW2dxliSb.png"
+},
+{
+    "preview": false,
+    "id": "Ezi3JVZuc2",
+    "url": "images/Ezi3JVZuc2.jpg",
+    "thumbUrl": "images/thumb-Ezi3JVZuc2.jpg",
+    "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gb9nHEWUvcYBldg333LakesideJPGjpg",
+    "title": "Bldg 333 Lakeside",
+    "blob": {
+        "preview": "blob:https://app.cloudpano.com/2be0a9e7-6317-4d13-91f1-720105b3a34d"
+    },
+    "uploaded": true,
+    "size": 7602130,
+    "dateUploaded": "2020-03-17T19:15:54.806Z",
+    "dateModified": "2020-02-07T00:48:25.000Z",
+    "linksToHere": false,
+    "links": [
+        "R55Onv8aW"
+    ],
+    "hotspots": [
+        {
+            "id": "hGxELEcNI",
+            "coords": {
+                "x": 4977.93,
+                "y": 58.73,
+                "z": 377.07
+            },
+            "style": 2,
+            "rotation": 320,
+            "image": {
+                "id": "YlW2dxliSb",
+                "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gCpnUJ5cQr7LearningCenterEntranceJPGjpg",
+                "title": "Learning Center Entrance",
+                "links": [
+                    "_z4ewCFfN",
+                    "QTqJWcpJL",
+                    "hGxELEcNI"
+                ],
+                "url": ""
+            }
+        }
+    ],
+    "hotspot": "images/hotspot-Ezi3JVZuc2.png"
+},
+{
+    "preview": false,
+    "id": "_afK1MtMfe",
+    "url": "images/_afK1MtMfe.jpg",
+    "thumbUrl": "images/thumb-_afK1MtMfe.jpg",
+    "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9g6cTmOEweiLearningCenterJPGjpg",
+    "title": "309 10th Floor",
+    "blob": {
+        "preview": "blob:https://app.cloudpano.com/70f76ca7-baaa-4afe-a3d5-87f869508d59"
+    },
+    "uploaded": true,
+    "size": 6027814,
+    "dateUploaded": "2020-03-17T19:15:54.807Z",
+    "dateModified": "2020-02-07T00:39:16.000Z",
+    "linksToHere": false,
+    "cameraPosition": {
+        "x": -0.9384674051860655,
+        "y": -0.04644785533364916,
+        "z": 0.34223022388187374
+    },
+    "hotspots": [
+        {
+            "id": "QTqJWcpJL",
+            "coords": {
+                "x": -4699.33,
+                "y": -785.51,
+                "z": -1513.83
+            },
+            "style": 2,
+            "rotation": 320,
+            "image": {
+                "id": "YlW2dxliSb",
+                "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gCpnUJ5cQr7LearningCenterEntranceJPGjpg",
+                "title": "Learning Center Entrance",
+                "links": [
+                    "_z4ewCFfN",
+                    "QTqJWcpJL"
+                ],
+                "url": ""
+            }
+        }
+    ],
+    "hotspot": "images/hotspot-_afK1MtMfe.png"
+},
+{
+    "preview": false,
+    "id": "7iQCb1iiJC",
+    "url": "images/7iQCb1iiJC.jpg",
+    "thumbUrl": "images/thumb-7iQCb1iiJC.jpg",
+    "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gM8UqHdK71p30310thFloor2JPGjpg",
+    "title": "309 10th Floor 2",
+    "blob": {
+        "preview": "blob:https://app.cloudpano.com/166bc84f-b886-4525-afbe-1380e2a894cb"
+    },
+    "uploaded": true,
+    "size": 6678153,
+    "dateUploaded": "2020-03-17T19:15:54.808Z",
+    "dateModified": "2020-02-07T00:33:47.000Z",
+    "linksToHere": false,
+    "links": [
+        "jm1yC7Ln-"
+    ],
+    "hotspots": [
+        {
+            "id": "rLurYM0i2-",
+            "coords": {
+                "x": -2249.75,
+                "y": -1218.75,
+                "z": -4286.51
+            },
+            "style": 2,
+            "rotation": 320,
+            "image": {
+                "id": "YlW2dxliSb",
+                "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gCpnUJ5cQr7LearningCenterEntranceJPGjpg",
+                "title": "Learning Center Entrance",
+                "links": [
+                    "_z4ewCFfN",
+                    "QTqJWcpJL",
+                    "hGxELEcNI",
+                    "jJEM0ohek",
+                    "rLurYM0i2-"
+                ],
+                "url": ""
+            }
+        }
+    ],
+    "hotspot": "images/hotspot-7iQCb1iiJC.png"
+},
+{
+    "preview": false,
+    "id": "C4t_EzVKMR",
+    "url": "images/C4t_EzVKMR.jpg",
+    "thumbUrl": "images/thumb-C4t_EzVKMR.jpg",
+    "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gCgPUIni0r30310thFloorJPGjpg",
+    "title": "309 10th Floor",
+    "blob": {
+        "preview": "blob:https://app.cloudpano.com/37949dbd-6cf1-486f-b7b6-5ff0ace383cd"
+    },
+    "uploaded": true,
+    "size": 6833592,
+    "dateUploaded": "2020-03-17T19:15:54.809Z",
+    "dateModified": "2020-02-07T00:32:04.000Z",
+    "linksToHere": false,
+    "hotspot": "images/hotspot-C4t_EzVKMR.png"
+},
+{
+    "preview": false,
+    "id": "4O-oN2kCAk",
+    "url": "images/4O-oN2kCAk.jpg",
+    "thumbUrl": "images/thumb-4O-oN2kCAk.jpg",
+    "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gSyHbyJEmKG309ReceptionJPGjpg",
+    "title": "309 Reception",
+    "blob": {
+        "preview": "blob:https://app.cloudpano.com/67d43135-1262-4f08-9f8f-0be05b4b004e"
+    },
+    "uploaded": true,
+    "size": 6445867,
+    "dateUploaded": "2020-03-17T19:15:54.810Z",
+    "dateModified": "2020-02-07T00:28:37.000Z",
+    "linksToHere": false,
+    "links": [
+        "DmOdkL90D"
+    ],
+    "hotspots": [
+        {
+            "id": "_z4ewCFfN",
+            "coords": {
+                "x": 4833.78,
+                "y": 1202.28,
+                "z": 346.89
+            },
+            "style": 2,
+            "rotation": 320,
+            "image": {
+                "id": "YlW2dxliSb",
+                "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gCpnUJ5cQr7LearningCenterEntranceJPGjpg",
+                "title": "Learning Center Entrance",
+                "links": [
+                    "_z4ewCFfN"
+                ],
+                "url": ""
+            }
+        }
+    ],
+    "hotspot": "images/hotspot-4O-oN2kCAk.png"
+},
+{
+    "preview": false,
+    "id": "7GQVvCeXgt",
+    "url": "images/7GQVvCeXgt.jpg",
+    "thumbUrl": "images/thumb-7GQVvCeXgt.jpg",
+    "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gKcqxlGUxdr309Waves2JPGjpg",
+    "title": "309 Waves 2",
+    "blob": {
+        "preview": "blob:https://app.cloudpano.com/be0d78bd-8366-4e36-a9b9-755a43a1d21f"
+    },
+    "uploaded": true,
+    "size": 6746961,
+    "dateUploaded": "2020-03-17T19:15:54.810Z",
+    "dateModified": "2020-02-07T00:26:33.000Z",
+    "linksToHere": false,
+    "hotspots": [
+        {
+            "id": "EIWD57QiO",
+            "coords": {
+                "x": 3339.01,
+                "y": -140.08,
+                "z": -3714.03
+            },
+            "style": 2,
+            "rotation": 320,
+            "image": {
+                "id": "gbnG-lWdo",
+                "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gzeN2b6b7WfLearningCenterEntryJPGjpg",
+                "title": "Learning Center Entry",
+                "links": [
+                    "Hb6RNdyPx",
+                    "EIWD57QiO"
+                ],
+                "url": ""
+            }
+        }
+    ],
+    "hotspot": "images/hotspot-7GQVvCeXgt.png"
+},
+{
+    "preview": false,
+    "id": "N3UPYAMfO_",
+    "url": "images/N3UPYAMfO_.jpg",
+    "thumbUrl": "images/thumb-N3UPYAMfO_.jpg",
+    "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gUTIoAie5px309WavesCafeJPGjpg",
+    "title": "309 Waves Cafe",
+    "blob": {
+        "preview": "blob:https://app.cloudpano.com/462d4970-b520-4dd7-8b9d-94993dad7c51"
+    },
+    "uploaded": true,
+    "size": 6667272,
+    "dateUploaded": "2020-03-17T19:15:54.811Z",
+    "dateModified": "2020-02-07T00:25:18.000Z",
+    "linksToHere": false,
+    "hotspots": [
+        {
+            "id": "wKEhqyn4K",
+            "coords": {
+                "x": 4650.54,
+                "y": -564.27,
+                "z": -1718.28
+            },
+            "style": 2,
+            "rotation": 320,
+            "image": {
+                "id": "gbnG-lWdo",
+                "hotspotUrl": "https://bigdatahomes.azureedge.net/tours/hotspot-l7f1GAEi9gzeN2b6b7WfLearningCenterEntryJPGjpg",
+                "title": "Learning Center Entry",
+                "links": [
+                    "Hb6RNdyPx",
+                    "EIWD57QiO",
+                    "wKEhqyn4K"
+                ],
+                "url": ""
+            }
+        }
+    ],
+    "cameraPosition": {
+        "x": 0.9872754332034611,
+        "y": 0.14270031847043196,
+        "z": 0.07017006556470778
+    },
+    "hotspot": "images/hotspot-N3UPYAMfO_.png"
+}
