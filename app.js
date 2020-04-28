@@ -21,6 +21,7 @@ app.use(express.static(path.join(__dirname, 'server2')));
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'landers')));
 app.use(express.static(path.join(__dirname, '333')));
+app.use(express.static(path.join(__dirname, '362')));
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 
